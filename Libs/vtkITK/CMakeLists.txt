@@ -76,6 +76,7 @@ set(vtkITK_SRCS
   vtkITKTimeSeriesDatabase.cxx
   vtkITKIslandMath.cxx
   vtkITKGrowCutSegmentationImageFilter.cxx
+  vtkITKHaralickTextureFeaturesImageFilter.cxx
   )
 
 # these types are never instantiated, so they don't
